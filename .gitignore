@@ -1,0 +1,8 @@
+# Sample data / user files
+*.csv
+
+# Python byte-code / environments
+__pycache__/
+*.py[cod]
+.venv/
+env/
