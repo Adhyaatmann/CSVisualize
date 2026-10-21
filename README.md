@@ -1,6 +1,6 @@
 # CSVisualize
 
-##Some info on WHY this exists
+## Some info on WHY this exists
 umm okay, so as an intro, this was genuinely a passion/time-pass project with no intention of making it public.
 I made this in school and then made it my school project, along with my friend (whom I shall refer to as Batman), who made a similar project of his own using PyQt5 instead of Tkinter as I have.
 Now I'm in college, and I learned about GitHub and that it's good to post projects here apparently, so as a way to broaden my horizon, I'm posting this here.
@@ -13,15 +13,15 @@ And yeah, that's it mostly, don't judge me too hard, this is the first project o
 
 Thank you for your interest, lemme explain the project a bit now
 
-##OVERVIEW
+## OVERVIEW
 
 This project aims to replicate the instructional editing method of traditional DBMS software like MySQL onto a CSV file
 Why? cuz at the time, Batman and I didn't know SQL and didn't wanna learn it, deeming Python the best and only language we needed. (which is also part of the reason I learned Tkinter lol)
 
-The code visualises each CSV file as a table and has multiple commands that help edit or view the table better.
-You can also create new csv files.
+The code visualises each CSV file as a table and includes multiple commands to help edit or filter the contents of the table.
+You can also create new CSV files.
 
-###WARNING: might break on empty csv file
+### WARNING: might break on empty CSV file
 
-Rest commands are mentioned on help page in program
+Rest commands are mentioned on the help page in the program
 There are a few easter eggs if you find them in the code tho ;)
